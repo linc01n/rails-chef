@@ -69,4 +69,4 @@ Created by Lincoln Lee
 
 License
 -------
-MIT License (see [LICENSE][license])
+MIT License (see [LICENSE](https://github.com/linc01n/rails-chef/blob/master/LICENSE))
